@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rili</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="month">十月</string>
+    <string name="date">1</string>
+    <string name="week">星期三</string>
+    <string name="nongli">农历九月初十</string>
+    <string name="yearmonth">2015年10月</string>
+    <string name="shift1">1</string>
+    <string name="shift2">2</string>
+    <string name="shift3">3</string>
+    <string name="shift4">4</string>
+    <string name="shift1Color"></string>
+
+</resources>
